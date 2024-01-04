@@ -184,6 +184,9 @@ ul {
   justify-content: flex-start;
   width: 180px;
   height: 180px;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  border-radius: 20px;
+  padding: 10px;
 }
 
 .forecast-weekday {
