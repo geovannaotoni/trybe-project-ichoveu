@@ -46,8 +46,8 @@ export const getForecastByCity = async (cityURL) => {
     const data = await response.json();
     const forecastInfo = data.forecast.forecastday.map((day) => ({
       date: day.date,
-      maxTemp: day.day.maxtemp_c, // temperatura em graus celsius
-      minTemp: day.day.mintemp_c, // temperatura em graus celsius
+      maxTemp: day.day.maxtemp_c,
+      minTemp: day.day.mintemp_c,
       condition: day.day.condition.text,
       icon: day.day.condition.icon,
     }));
