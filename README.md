@@ -22,3 +22,6 @@ Para utilizar este projeto, é necessário criar uma conta no WeatherAPI e gerar
 
 ## 💻 Visualize este projeto:
 <img src="ichoveu.gif"/>
+
+## ℹ️ Considerações finais
+Este projeto é apenas para fins educacionais. Qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato.
